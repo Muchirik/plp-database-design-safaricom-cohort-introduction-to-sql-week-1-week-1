@@ -1,4 +1,4 @@
-# Components of a Database Management System (DBMS)
+**Components of a Database Management System (DBMS)**
 
 1. **Database Engine**: The core service for accessing and processing data. It allows users to create, read, update, and delete data in the database.
 
@@ -17,11 +17,11 @@
 8. **Data Dictionary**: A repository of metadata that describes the structure of the database, including information about tables, fields, data types, and relationships.
 
 
-## What is a Relational Database?
+**What is a Relational Database?**
 
 A relational database is a type of database that stores data in a structured format, using rows and columns. It is based on the relational model introduced by E.F. Codd. In a relational database, data is organized into tables, which can be linked—or related—based on data common to each. This allows for efficient data retrieval and manipulation through the use of Structured Query Language (SQL).
 
-# Examples of Relational Databases:
+**Examples of Relational Databases:**
 1. **MySQL**: An open-source relational database management system that uses SQL for database access. It is widely used for web applications and data warehousing.
 
 2. **PostgreSQL**: An advanced open-source relational database that supports both SQL and JSON querying. It is known for its robustness and support for complex queries.
